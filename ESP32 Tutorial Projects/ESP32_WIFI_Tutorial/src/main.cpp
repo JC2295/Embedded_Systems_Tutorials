@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include "WiFi.h"
 
-#define WIFI_NETWORK "AndroidAP6392"
-#define WIFI_PASSWORD "726f2b678904"
+#define WIFI_NETWORK "VM3838481"
+#define WIFI_PASSWORD "xyttgdNh98tf"
 #define WIFI_TIMEOUT_MS 20000
 
 void connectToWiFi()
