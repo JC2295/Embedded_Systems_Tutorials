@@ -4,8 +4,8 @@ int green = 10;
 int yellow = 9;
 int red = 8;
 float v_r;
-float v1 = (1024. / 5.)*1.67;
-float v2 = (1024. / 5.)*3.34;
+float v1 = (1024. / 5.)*1.5;
+float v2 = (1024. / 5.)*4;
 
 void setup() {
   // put your setup code here, to run once:
